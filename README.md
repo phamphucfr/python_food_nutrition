@@ -1,7 +1,3 @@
-# python_prject_food_nutrition
-une application python permettant de collecter des données nutritionnelles obtenues depuis une source Internet publique
-
-
 *** Projet InfoNutri ***
 
 Vous êtes chargés de créer une application python permettant de collecter des données nutritionnelles
@@ -22,12 +18,12 @@ Votre programme devra:
   . protein (protéines)
   les valeurs associées à ce propriétés se feront sur une base de 100 grammes
 - prévoir une méthode affichant dans le terminal les informations complètes d'un aliment, ex:
-  
-  ---------------------------------------
+
+  #---------------------------------------#
   name    calories  fat   carbs   protein
   tomate  21        0.3   4.6     0.8
-  ---------------------------------------
-  
+  #---------------------------------------#
+ 
 - prévoir une méthode permettant d'enregistrer les infos dans un fichier csv
 - prévoir une méthode boolénne indiquant si un aliment est gras ou pas
   (vrai, par exemple,siles lipides sont supérieurs à 20%)
